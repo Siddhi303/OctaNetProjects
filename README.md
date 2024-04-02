@@ -1,7 +1,7 @@
 **ATM Example**
 This simple Java program simulates an Automated Teller Machine (ATM) interface.
 
-**<<<<<Features>>>>>**
+**Features**
 
 **Withdrawal:** Users can enter the amount they want to withdraw. If their account balance is sufficient, the requested amount is deducted, and they receive a message to collect their money. Otherwise, they are informed of insufficient funds.
 
